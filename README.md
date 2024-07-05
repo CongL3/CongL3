@@ -6,9 +6,10 @@ iOS Engineer
 
 I like to think I'm a relaxed and diligent individual. With a mantra of gravitating towards the positive. Start iOS Development in 2014 and have loved it ever since. Still one today and I Imagine I will be one as long I can.
 
-* 🌍  I'm based in the UK
+* 🌍  I'm based in the UK.
+* 🚀  I'm currently working with my wife of our little [Anniversary Tracker](http://congl3.github.io/AnniversaryTrackerApp/) app. (100k downloads so far)
+* 🔨  My day job is at [Capital One](https://jobs.capitalone.co.uk/).
 * 🖥️  See my portfolio at [https://congl3.github.io/](http://congl3.github.io/)
-* 🚀  I'm currently working with my wife of our little [Anniversary Tracker](http://congl3.github.io/AnniversaryTrackerApp/) app.
 
 ### Skills
 
