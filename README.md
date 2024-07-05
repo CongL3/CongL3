@@ -6,10 +6,9 @@ iOS Engineer
 
 I like to think I'm a relaxed and diligent individual. With a mantra of gravitating towards the positive. Start iOS Development in 2014 and have loved it ever since. Still one today and I Imagine I will be one as long I can.
 
-* 🌍  I'm based in Nottingham
+* 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [https://congl3.github.io/](http://congl3.github.io/)
-* ✉️  You can contact me at [congle11@gmail.com](mailto:congle11@gmail.com)
-* 🚀  I'm currently working on [Anniversary Tracker](http://congl3.github.io/AnniversaryTrackerApp/)
+* 🚀  I'm currently working with my wife of our little [Anniversary Tracker](http://congl3.github.io/AnniversaryTrackerApp/) app.
 
 ### Skills
 
