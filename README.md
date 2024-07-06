@@ -4,7 +4,7 @@ Hi👋 My name is Cong Le
 iOS Engineer
 ------------
 
-I like to think I'm a relaxed and diligent individual. With a mantra of gravitating towards the positive. Start iOS Development in 2014 and have loved it ever since. Still one today and I Imagine I will be one as long I can.
+I like to think I'm a relaxed and diligent individual. With a mantra of gravitating towards the positive. Started iOS Development in 2014 and have loved it ever since. Still one today and I Imagine I will be one as long I can.
 
 * 🌍  I'm based in the UK.
 * 🚀  I'm currently working with my wife of our little [Anniversary Tracker](http://congl3.github.io/AnniversaryTrackerApp/) app. (Super proud about the 100k downloads so far)
