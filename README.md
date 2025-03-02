@@ -4,8 +4,8 @@ Principal iOS Engineer at Capital One with 10+ years of experience.
 I'd say I am a relaxed and diligent individual. With a mantra of gravitating towards the positive and a love and passion for creating intuitive mobile experiences and solving complex technical challenges.
 
 ## Current Endeavors
-* 🏢 Leading iOS development at [Capital One](https://jobs.capitalone.co.uk/)
-* 📱 Working with my wife on [Anniversary Tracker](http://congl3.github.io/AnniversaryTrackerApp/) (100k+ downloads!)
+* 🏢 An iOS Lead at [Capital One](https://jobs.capitalone.co.uk/)
+* 📱 Working with my wife with our [Anniversary Tracker](http://congl3.github.io/AnniversaryTrackerApp/) app (100k+ downloads!)
 * 🌟 Always exploring new iOS technologies and best practices
 * 🔍 See my work at [congl3.github.io](http://congl3.github.io/)
 
