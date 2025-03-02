@@ -17,17 +17,17 @@ I'd say I am a relaxed and diligent individual. With a mantra of gravitating tow
 ![XCTest](https://img.shields.io/badge/-XCTest-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![MVVM](https://img.shields.io/badge/-MVVM-FF69B4?style=flat-square)
 
-### Development Tools & Practices
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile-83B81A?style=flat-square&logo=agile&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+// ### Development Tools & Practices
+// ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+// ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+// ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+// ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+// ![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
+// ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+// ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+// ![Agile](https://img.shields.io/badge/-Agile-83B81A?style=flat-square&logo=agile&logoColor=white)
+// ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+// ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
 ## Let's Connect
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://www.github.com/CongL3)
