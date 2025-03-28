@@ -5,7 +5,7 @@ I'd say I am a relaxed and diligent individual. With a mantra of gravitating tow
 
 ## Current Endeavors
 * 🏢 Lead Mobile at [Capital One](https://jobs.capitalone.co.uk/)
-* 📱 Working with my wife with our [Anniversary Tracker](http://congl3.github.io/AnniversaryTrackerApp/) app (100k+ downloads!)
+* 📱 Working with my wife with our [Anniversary Tracker](https://apps.apple.com/jp/app/anniversary-tracker-%E8%A8%98%E5%BF%B5%E6%97%A5/id1570714816?uo=4) app (150k+ downloads!)
 * 🎴 Newly released [Pokemon Card Values](http://apple.co/3FVbmCV) app
 * 🎉 [Birthday Reminders](http://bit.ly/3QRSQ0D)
 * 🌟 Always exploring new iOS technologies and best practices
