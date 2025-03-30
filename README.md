@@ -37,6 +37,7 @@ I'd say I am a relaxed and diligent individual. With a mantra of gravitating tow
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium)](http://www.medium.com/@congle)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/1265601/congl3)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x)](https://www.x.com/CongLe)
+[![Product Hunt](https://img.shields.io/badge/-Product%20Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@cong_le1)
 
 ### Support My Work
 <a href="https://www.buymeacoffee.com/congle"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
