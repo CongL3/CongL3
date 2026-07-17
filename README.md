@@ -3,11 +3,14 @@
 Principal iOS Engineer at Capital One with 10+ years of experience. 
 I'd say I am a relaxed and diligent individual. With a mantra of gravitating towards the positive and a love and passion for creating intuitive mobile experiences and solving complex technical challenges.
 
+🌐 **My app portfolio: [cong-le.com](https://www.cong-le.com/)** — 50+ iOS apps, plus a [blog](https://www.cong-le.com/blog/) on building them.
+
 ## Current Endeavors
 * Lead Mobile at [Capital One](https://jobs.capitalone.co.uk/)
-* Working with my wife with our [Anniversary Tracker](https://apps.apple.com/jp/app/anniversary-tracker-%E8%A8%98%E5%BF%B5%E6%97%A5/id1570714816?uo=4) app (250k+ downloads!)
+* Building and shipping an indie iOS app portfolio — browse it all at [cong-le.com](https://www.cong-le.com/)
+* Working with my wife with our [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/) app (250k+ downloads!)
 * Newly released [Pokemon Card Values](http://apple.co/3FVbmCV) app
-* [Birthday Reminders](http://bit.ly/3QRSQ0D) app
+* [Birthday Reminders](https://www.cong-le.com/apps/birthday-reminder/) app
 * Always exploring new iOS technologies and best practices
 * See my work at [congl3.github.io](http://congl3.github.io/)
 
@@ -32,6 +35,7 @@ I'd say I am a relaxed and diligent individual. With a mantra of gravitating tow
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
 ## Let's Connect
+[![Website](https://img.shields.io/badge/-cong--le.com-4A90D9?style=flat-square&logo=googlechrome&logoColor=white)](https://www.cong-le.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://www.github.com/CongL3)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cong-le-ios)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium)](http://www.medium.com/@congle)
