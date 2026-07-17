@@ -12,7 +12,6 @@ I'd say I am a relaxed and diligent individual. With a mantra of gravitating tow
 * Newly released [Pokemon Card Values](http://apple.co/3FVbmCV) app
 * [Birthday Reminders](https://www.cong-le.com/apps/birthday-reminder/) app
 * Always exploring new iOS technologies and best practices
-* See my work at [congl3.github.io](http://congl3.github.io/)
 
 ## iOS Tech Stack
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -42,6 +41,3 @@ I'd say I am a relaxed and diligent individual. With a mantra of gravitating tow
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/1265601/congl3)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x)](https://www.x.com/CongLe)
 [![Product Hunt](https://img.shields.io/badge/-Product%20Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@cong_le1)
-
-### Support My Work
-<a href="https://www.buymeacoffee.com/congle"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
