@@ -1,12 +1,12 @@
 # Hi 👋 I'm Cong Le
 
-Principal iOS Engineer at Capital One with 10+ years of experience. 
+Technical Lead for iOS at Capital One with 11+ years of experience. 
 I'd say I am a relaxed and diligent individual. With a mantra of gravitating towards the positive and a love and passion for creating intuitive mobile experiences and solving complex technical challenges.
 
 🌐 **My app portfolio: [cong-le.com](https://www.cong-le.com/)** — 50+ iOS apps, plus a [blog](https://www.cong-le.com/blog/) on building them.
 
 ## Current Endeavors
-* Lead Mobile at [Capital One](https://jobs.capitalone.co.uk/)
+* Technical Lead, iOS at [Capital One](https://jobs.capitalone.co.uk/)
 * Building and shipping an indie iOS app portfolio — browse it all at [cong-le.com](https://www.cong-le.com/)
 * Working with my wife with our [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/) app (250k+ downloads!)
 * Newly released [Pokemon Card Values](http://apple.co/3FVbmCV) app
