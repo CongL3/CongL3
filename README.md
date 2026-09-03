@@ -5,7 +5,7 @@ I'd say I am a relaxed and diligent individual. With a mantra of gravitating tow
 
 🌐 **My app portfolio: [cong-le.com](https://www.cong-le.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=cong-le) [pocketgrove.com](https://www.pocketgrove.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=pocket-grove)** — 50+ iOS apps, plus a [blog](https://www.cong-le.com/blog/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=blog) on building them.
 
-Try [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=anniversary-tracker) if you want a simple way to keep meaningful dates, milestones, and reminders together.
+Try [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=anniversary-tracker) if you want a simple way to keep meaningful dates, milestones, and reminders together — or [download it on the App Store](https://apps.apple.com/gb/app/anniversary-tracker/id1570714816?ct=congle-github-profile-anniversary&pt=19678800&mt=8).
 
 ## Current Endeavors
 * Technical Lead, iOS at [Capital One](https://jobs.capitalone.co.uk/)
