@@ -10,7 +10,7 @@ Try [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_
 ## Current Endeavors
 * Technical Lead, iOS at [Capital One](https://jobs.capitalone.co.uk/)
 * Building and shipping an indie iOS app portfolio — browse it all at [cong-le.com](https://www.cong-le.com/)
-* Working with my wife with our [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/) app (250k+ downloads!)
+* Working with my wife with our [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_source=github&utm_medium=referral&utm_campaign=profile_endeavor&utm_content=anniversary-tracker) app (250k+ downloads!)
 * Always exploring new iOS technologies and best practices
 
 ## iOS Tech Stack
