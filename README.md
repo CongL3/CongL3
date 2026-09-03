@@ -3,13 +3,13 @@
 Technical Lead for iOS at Capital One with 11+ years of experience. 
 I'd say I am a relaxed and diligent individual. With a mantra of gravitating towards the positive and a love and passion for creating intuitive mobile experiences and solving complex technical challenges.
 
-🌐 **My app portfolio: [cong-le.com](https://www.cong-le.com/) [pocketgrove.com](https://www.pocketgrove.com/)** — 50+ iOS apps, plus a [blog](https://www.cong-le.com/blog/) on building them.
+🌐 **My app portfolio: [cong-le.com](https://www.cong-le.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=cong-le) [pocketgrove.com](https://www.pocketgrove.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=pocket-grove)** — 50+ iOS apps, plus a [blog](https://www.cong-le.com/blog/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=blog) on building them.
 
 Try [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=anniversary-tracker) if you want a simple way to keep meaningful dates, milestones, and reminders together.
 
 ## Current Endeavors
 * Technical Lead, iOS at [Capital One](https://jobs.capitalone.co.uk/)
-* Building and shipping an indie iOS app portfolio — browse it all at [cong-le.com](https://www.cong-le.com/)
+* Building and shipping an indie iOS app portfolio — browse it all at [cong-le.com](https://www.cong-le.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=cong-le)
 * Working with my wife with our [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_source=github&utm_medium=referral&utm_campaign=profile_endeavor&utm_content=anniversary-tracker) app (250k+ downloads!)
 * Always exploring new iOS technologies and best practices
 
