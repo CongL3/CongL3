@@ -9,6 +9,8 @@ Try [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_
 
 For a player-career football game, try [Football Career Quest](https://www.cong-le.com/apps/football-career-quest/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=football-career-quest) — or [download it on the App Store](https://apps.apple.com/gb/app/football-career-quest/id6777125671?ct=congle-github-profile-football&pt=19678800&mt=8).
 
+For a basketball career simulator, try [Hoop Quest](https://www.cong-le.com/apps/hoop-quest/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=hoop-quest) — or [download it on the App Store](https://apps.apple.com/gb/app/hoop-quest-basketball-sim/id6775279715?ct=congle-github-profile-hoop&pt=19678800&mt=8).
+
 ## Current Endeavors
 * Technical Lead, iOS at [Capital One](https://jobs.capitalone.co.uk/)
 * Building and shipping an indie iOS app portfolio — browse it all at [cong-le.com](https://www.cong-le.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=cong-le)
