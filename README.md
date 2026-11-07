@@ -1,47 +1,35 @@
-# Hi 👋 I'm Cong Le
+# Hi, I'm Cong 👋
 
-Technical Lead for iOS at Capital One with 11+ years of experience. 
-I'd say I am a relaxed and diligent individual. With a mantra of gravitating towards the positive and a love and passion for creating intuitive mobile experiences and solving complex technical challenges.
+**iOS Tech Lead at Capital One · Independent developer behind [Pocket Grove](https://pocketgrove.com/?utm_source=github&utm_medium=referral&utm_campaign=profile)**
 
-🌐 **My app portfolio: [cong-le.com](https://www.cong-le.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=cong-le) [pocketgrove.com](https://www.pocketgrove.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=pocket-grove)** — 50+ iOS apps, plus a [blog](https://www.cong-le.com/blog/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=blog) on building them.
+I'm a UK-based mobile engineer who enjoys turning complex problems into apps that feel simple. Alongside leading iOS development, I build and maintain a portfolio of apps, games, and the services behind them through **Pocket Grove Ltd**.
 
-Try [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=anniversary-tracker) if you want a simple way to keep meaningful dates, milestones, and reminders together — or [download it on the App Store](https://apps.apple.com/gb/app/anniversary-tracker/id1570714816?ct=congle-github-profile-anniversary&pt=19678800&mt=8).
+My work now spans native iOS and Android, shared mobile foundations, self-hosted backends, and practical AI-assisted development.
 
-For a player-career football game, try [Football Career Quest](https://www.cong-le.com/apps/football-career-quest/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=football-career-quest) — or [download it on the App Store](https://apps.apple.com/gb/app/football-career-quest/id6777125671?ct=congle-github-profile-football&pt=19678800&mt=8).
+### Things I've built
 
-For a basketball career simulator, try [Hoop Quest](https://www.cong-le.com/apps/hoop-quest/?utm_source=github&utm_medium=referral&utm_campaign=profile_readme&utm_content=hoop-quest) — or [download it on the App Store](https://apps.apple.com/gb/app/hoop-quest-basketball-sim/id6775279715?ct=congle-github-profile-hoop&pt=19678800&mt=8).
+| Project | What it's for |
+| --- | --- |
+| [Anniversary Tracker](https://pocketgrove.com/apps/anniversary-tracker/) | Remembering meaningful dates, relationship milestones, and the days together. Built with my wife, available on iPhone and Android. |
+| [Football Career Quest](https://pocketgrove.com/apps/football-career-quest/) | Building a footballer's career through training, matches, transfers, and life off the pitch. |
+| [Hoop Quest](https://pocketgrove.com/apps/hoop-quest/) | A basketball career sim, from backyard prospect to all-time legend. |
+| [Pocket Grove apps](https://pocketgrove.com/#apps) | The wider collection of everyday tools, learning apps, and games. |
 
-## Current Endeavors
-* Technical Lead, iOS at [Capital One](https://jobs.capitalone.co.uk/)
-* Building and shipping an indie iOS app portfolio — browse it all at [cong-le.com](https://www.cong-le.com/?utm_source=github&utm_medium=referral&utm_campaign=profile_portfolio&utm_content=cong-le)
-* Working with my wife with our [Anniversary Tracker](https://www.cong-le.com/apps/anniversary-tracker/?utm_source=github&utm_medium=referral&utm_campaign=profile_endeavor&utm_content=anniversary-tracker) app (250k+ downloads!)
-* Always exploring new iOS technologies and best practices
+### What I'm working on
 
-## iOS Tech Stack
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
-![XCTest](https://img.shields.io/badge/-XCTest-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![MVVM](https://img.shields.io/badge/-MVVM-FF69B4?style=flat-square)
+- **Native experiences across platforms.** SwiftUI and UIKit on iOS; Kotlin and Jetpack Compose on Android; Kotlin Multiplatform for shared domain and data logic.
+- **A reusable app foundation.** Shared components, localization, purchases, testing, and release tooling that make a growing portfolio easier to maintain.
+- **The services behind the apps.** Self-hosted account and backup services, online game competition, card-data pipelines, and image-recognition experiments.
+- **AI-assisted engineering.** Building workflows around coding agents, reusable skills, automated checks, and real device verification—with human review of the result.
 
-### Development Tools & Practices
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile-83B81A?style=flat-square&logo=agile&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+### Tools I reach for
 
-## Let's Connect
-[![Website](https://img.shields.io/badge/-cong--le.com-4A90D9?style=flat-square&logo=googlechrome&logoColor=white)](https://www.cong-le.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://www.github.com/CongL3)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cong-le-ios)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium)](http://www.medium.com/@congle)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/1265601/congl3)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x)](https://www.x.com/CongLe)
-[![Product Hunt](https://img.shields.io/badge/-Product%20Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@cong_le1)
+**Mobile:** Swift · SwiftUI · UIKit · Kotlin · Jetpack Compose · Kotlin Multiplatform  
+**Backend & data:** Python · PostgreSQL · Docker · Linux  
+**Delivery & quality:** Xcode · Gradle · Fastlane · GitHub Actions · XCTest
+
+### Writing & elsewhere
+
+I write about mobile development, building products, and what works in day-to-day coding-agent workflows.
+
+[Apps & games](https://pocketgrove.com/) · [Writing](https://pocketgrove.com/blog/) · [LinkedIn](https://www.linkedin.com/in/cong-le-ios) · [X](https://x.com/CongLe) · [Stack Overflow](https://stackoverflow.com/users/1265601/congl3)
