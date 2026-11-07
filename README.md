@@ -1,6 +1,6 @@
 # Hi 👋 I'm Cong Le
 
-Mobile Lead at Capital One, based in the UK. I'm a relaxed, curious developer who enjoys creating intuitive mobile experiences and solving complex technical challenges.
+I'm a Mobile Lead at Capital One, based in the UK. I'm a relaxed, curious developer who enjoys creating intuitive mobile experiences and solving complex technical challenges.
 
 Alongside my day job, I build apps and games through **Pocket Grove Ltd** — from everyday tools to sports career simulators, with native iOS and Android experiences and the services behind them.
 
@@ -14,7 +14,7 @@ For a basketball career simulator, try [Hoop Quest](https://pocketgrove.com/hoop
 
 ## Current Endeavors
 
-* Mobile Lead at [Capital One](https://jobs.capitalone.co.uk/)
+* Working as a Mobile Lead at [Capital One](https://jobs.capitalone.co.uk/)
 * Building and maintaining the [Pocket Grove](https://pocketgrove.com/) app and game portfolio
 * Working with my wife on our [Anniversary Tracker](https://pocketgrove.com/apps/anniversary-tracker/) app
 * Sharing domain and data logic with **Kotlin Multiplatform**, alongside native SwiftUI and Compose interfaces
