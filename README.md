@@ -12,7 +12,7 @@ My work now spans native iOS and Android, shared mobile foundations, self-hosted
 | --- | --- |
 | [Anniversary Tracker](https://pocketgrove.com/apps/anniversary-tracker/) | Remembering meaningful dates, relationship milestones, and the days together. Built with my wife, available on iPhone and Android. |
 | [Football Career Quest](https://pocketgrove.com/apps/football-career-quest/) | Building a footballer's career through training, matches, transfers, and life off the pitch. |
-| [Hoop Quest](https://pocketgrove.com/apps/hoop-quest/) | A basketball career sim, from backyard prospect to all-time legend. |
+| [Hoop Quest](https://pocketgrove.com/hoop-quest/) | A basketball career sim, from backyard prospect to all-time legend. |
 | [Pocket Grove apps](https://pocketgrove.com/#apps) | The wider collection of everyday tools, learning apps, and games. |
 
 ### What I'm working on
